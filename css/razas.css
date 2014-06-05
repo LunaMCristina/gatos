@@ -1,0 +1,1073 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #EBF4F4;
+	background: -webkit-gradient(linear, center top, center bottom, from(#EBF4F4),color-stop(100%, #FFFFFF));
+	background: -webkit-linear-gradient(top,#EBF4F4 ,#FFFFFF 100%);
+	background: -moz-linear-gradient(top,#EBF4F4 ,#FFFFFF 100%);
+	background: -ms-linear-gradient(top,#EBF4F4 ,#FFFFFF 100%);
+	background: -o-linear-gradient(top,#EBF4F4 ,#FFFFFF 100%);
+	background: linear-gradient(to bottom,#EBF4F4 ,#FFFFFF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFEBF4F4, endColorstr=#FFFFFFFF, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEBF4F4', endColorstr='#FFFFFFFF', GradientType=0)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 1079.95px;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	margin-top: 5px;
+	margin-bottom: 1px;
+}
+
+#ppmenuu2624
+{
+	width: 0.01px;
+	padding-bottom: 6px;
+	position: relative;
+}
+
+#pmenuu2624
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#menuu2624
+{
+	z-index: 11;
+	width: 71px;
+}
+
+#menuu2649
+{
+	z-index: 20;
+	width: 71px;
+	margin-top: 21px;
+}
+
+#u2641,#u2650
+{
+	width: 71px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u2644,#u2651
+{
+	width: 71px;
+}
+
+#u2645,#u2652
+{
+	height: 22px;
+	width: 71px;
+	margin-right: -10000px;
+}
+
+#menuu3129
+{
+	z-index: 54;
+	width: 68px;
+	margin-left: 17px;
+	margin-top: 11px;
+}
+
+#u2621
+{
+	z-index: 2;
+	width: 238px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 95px;
+}
+
+#u2622-4
+{
+	z-index: 3;
+	width: 238px;
+	min-height: 90px;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u2623-4
+{
+	z-index: 7;
+	width: 214px;
+	margin-right: -10000px;
+	left: 3px;
+}
+
+#menuu2674
+{
+	z-index: 26;
+	width: 144px;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 236px;
+}
+
+#u2692
+{
+	width: 144px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u2695
+{
+	width: 144px;
+}
+
+#u2698
+{
+	height: 22px;
+	width: 144px;
+	margin-right: -10000px;
+}
+
+#menuu2699
+{
+	z-index: 32;
+	width: 68px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 311px;
+}
+
+#menuu3032
+{
+	z-index: 42;
+	width: 68px;
+	margin-right: -10000px;
+	margin-top: 43px;
+	left: 244px;
+}
+
+#menuu3105
+{
+	z-index: 48;
+	width: 85px;
+	margin-right: -10000px;
+	margin-top: 77px;
+	left: 108px;
+}
+
+#u3106
+{
+	width: 85px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u3107
+{
+	width: 85px;
+}
+
+#u3110
+{
+	height: 22px;
+	width: 85px;
+	margin-right: -10000px;
+}
+
+#menuu3359
+{
+	z-index: 64;
+	width: 70px;
+	margin-right: -10000px;
+	margin-top: 77px;
+	left: 220px;
+}
+
+#u3360
+{
+	width: 70px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u3363
+{
+	width: 70px;
+}
+
+#u3365
+{
+	height: 22px;
+	width: 70px;
+	margin-right: -10000px;
+}
+
+#menuu3403
+{
+	z-index: 70;
+	width: 68px;
+	margin-right: -10000px;
+	margin-top: 77px;
+	left: 299px;
+}
+
+#u3130,#u2716,#u3033,#u3420
+{
+	width: 68px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u3131,#u2717,#u3034,#u3421
+{
+	width: 68px;
+}
+
+#u3134,#u2718,#u3037,#u3422
+{
+	height: 22px;
+	width: 68px;
+	margin-right: -10000px;
+}
+
+#pu2809-4
+{
+	width: 0.01px;
+	margin-left: 9px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u2809-4
+{
+	z-index: 76;
+	width: 358px;
+	min-height: 46px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#u2648-3
+{
+	z-index: 17;
+	width: 5px;
+	margin-right: -10000px;
+	left: 468px;
+}
+
+#pu3200
+{
+	width: 0.01px;
+	margin-left: 11px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u3200
+{
+	z-index: 80;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/gato-silvestre-bosque-noruega-u3200-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3228
+{
+	z-index: 96;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 8px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 65px;
+}
+
+#u3245-4
+{
+	z-index: 112;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 5px;
+}
+
+#u3214
+{
+	z-index: 87;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/raza-gato-absinio-u3214-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3233
+{
+	z-index: 101;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 7px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u3251-4
+{
+	z-index: 136;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 4px;
+}
+
+#u3213
+{
+	z-index: 86;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/gatos-american-curl-u3213-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3232
+{
+	z-index: 100;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 65px;
+}
+
+#u3256-4
+{
+	z-index: 156;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 8px;
+}
+
+#u3212
+{
+	z-index: 85;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/gatos-american-shorthair-u3212-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3231
+{
+	z-index: 99;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 65px;
+}
+
+#u3255-4
+{
+	z-index: 152;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 8px;
+}
+
+#u3211
+{
+	z-index: 84;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/razas-gatos-azul-ruso-u3211-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3230
+{
+	z-index: 98;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 65px;
+}
+
+#u3254-4
+{
+	z-index: 148;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 5px;
+}
+
+#pu3153-3
+{
+	width: 0.01px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u3153-3
+{
+	z-index: 60;
+	width: 5px;
+	margin-right: -10000px;
+	margin-top: 23px;
+}
+
+#u3210
+{
+	z-index: 83;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	left: 11px;
+	background: #FFFFFF url("../images/gatos-balineses-u3210-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3229
+{
+	z-index: 97;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 76px;
+}
+
+#u3253-4
+{
+	z-index: 144;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 5px;
+}
+
+#pu3214,#pu3212,#pu3211,#pu3209
+{
+	width: 0.01px;
+	margin-left: 11px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u3209
+{
+	z-index: 82;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/gatos-bengalies-u3209-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3234
+{
+	z-index: 102;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 7px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u3252-4
+{
+	z-index: 140;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 5px;
+}
+
+#u3208
+{
+	z-index: 81;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/gatos-bobtail-japones-u3208-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3235
+{
+	z-index: 103;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u3250-4
+{
+	z-index: 132;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 4px;
+}
+
+#u3215
+{
+	z-index: 88;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/gatos-bombay-u3215-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3237
+{
+	z-index: 105;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0071BC;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u3249-4
+{
+	z-index: 128;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 5px;
+}
+
+#u3227
+{
+	z-index: 95;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/raza-gatos-british-shorthair-u3227-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3236
+{
+	z-index: 104;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u3248-4
+{
+	z-index: 124;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 5px;
+}
+
+#u3226
+{
+	z-index: 94;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/raza-gatos-burmilla-u3226-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3238
+{
+	z-index: 106;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u3246-4
+{
+	z-index: 116;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 5px;
+}
+
+#u3225
+{
+	z-index: 93;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/raza-gatos-california-spangled-u3225-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3239
+{
+	z-index: 107;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u3247-4
+{
+	z-index: 120;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 5px;
+}
+
+#u3224
+{
+	z-index: 92;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/raza-gatos-chartreux-u3224-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3240
+{
+	z-index: 108;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u3260-4
+{
+	z-index: 172;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 5px;
+}
+
+#u3223
+{
+	z-index: 91;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/gato-comun-europeo-u3223-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3241
+{
+	z-index: 109;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u3259-4
+{
+	z-index: 168;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 5px;
+}
+
+#u3222
+{
+	z-index: 90;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/gatos-cornish-rex-u3222-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3242
+{
+	z-index: 110;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u3258-4
+{
+	z-index: 164;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 5px;
+}
+
+#pu3213,#pu3208,#pu3215,#pu3227,#pu3226,#pu3225,#pu3224,#pu3223,#pu3222,#pu3221
+{
+	width: 0.01px;
+	margin-left: 11px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u3221
+{
+	z-index: 89;
+	width: 54px;
+	height: 47px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/raza-gatos-cymric-u3221-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3243
+{
+	z-index: 111;
+	width: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	padding-bottom: 8px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 65px;
+}
+
+#u3257-4
+{
+	z-index: 160;
+	width: 273px;
+	min-height: 30px;
+	color: #0071BC;
+	font-size: 18px;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 5px;
+}
+
+#u2755-4
+{
+	z-index: 38;
+	width: 367px;
+	min-height: 29px;
+	margin-left: 7px;
+	top: -25px;
+	margin-bottom: -25px;
+}
+
+#u3155
+{
+	z-index: 63;
+	width: 380px;
+	height: 47px;
+	margin-top: 4px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

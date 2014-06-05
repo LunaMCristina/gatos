@@ -1,0 +1,454 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #EBF4F4;
+	background: -webkit-gradient(linear, center top, center bottom, from(#EBF4F4),color-stop(100%, #FFFFFF));
+	background: -webkit-linear-gradient(top,#EBF4F4 ,#FFFFFF 100%);
+	background: -moz-linear-gradient(top,#EBF4F4 ,#FFFFFF 100%);
+	background: -ms-linear-gradient(top,#EBF4F4 ,#FFFFFF 100%);
+	background: -o-linear-gradient(top,#EBF4F4 ,#FFFFFF 100%);
+	background: linear-gradient(to bottom,#EBF4F4 ,#FFFFFF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFEBF4F4, endColorstr=#FFFFFFFF, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEBF4F4', endColorstr='#FFFFFFFF', GradientType=0)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 1079.95px;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	margin-top: 5px;
+	margin-bottom: 1px;
+}
+
+#ppmenuu2624
+{
+	width: 0.01px;
+	padding-bottom: 6px;
+	position: relative;
+}
+
+#pmenuu2624
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#menuu2624
+{
+	z-index: 11;
+	width: 71px;
+}
+
+#menuu2649
+{
+	z-index: 20;
+	width: 71px;
+	margin-top: 21px;
+}
+
+#u2641,#u2650
+{
+	width: 71px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u2644,#u2651
+{
+	width: 71px;
+}
+
+#u2645,#u2652
+{
+	height: 22px;
+	width: 71px;
+	margin-right: -10000px;
+}
+
+#menuu3129
+{
+	z-index: 54;
+	width: 68px;
+	margin-left: 17px;
+	margin-top: 11px;
+}
+
+#u2621
+{
+	z-index: 2;
+	width: 238px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 95px;
+}
+
+#u2622-4
+{
+	z-index: 3;
+	width: 238px;
+	min-height: 90px;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u2623-4
+{
+	z-index: 7;
+	width: 214px;
+	margin-right: -10000px;
+	left: 3px;
+}
+
+#menuu2674
+{
+	z-index: 26;
+	width: 144px;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 236px;
+}
+
+#u2692
+{
+	width: 144px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u2695
+{
+	width: 144px;
+}
+
+#u2698
+{
+	height: 22px;
+	width: 144px;
+	margin-right: -10000px;
+}
+
+#menuu2699
+{
+	z-index: 32;
+	width: 68px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 311px;
+}
+
+#menuu3032
+{
+	z-index: 42;
+	width: 68px;
+	margin-right: -10000px;
+	margin-top: 43px;
+	left: 244px;
+}
+
+#menuu3105
+{
+	z-index: 48;
+	width: 85px;
+	margin-right: -10000px;
+	margin-top: 77px;
+	left: 108px;
+}
+
+#u3106
+{
+	width: 85px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u3107
+{
+	width: 85px;
+}
+
+#u3110
+{
+	height: 22px;
+	width: 85px;
+	margin-right: -10000px;
+}
+
+#menuu3359
+{
+	z-index: 64;
+	width: 70px;
+	margin-right: -10000px;
+	margin-top: 77px;
+	left: 220px;
+}
+
+#u3360
+{
+	width: 70px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u3363
+{
+	width: 70px;
+}
+
+#u3365
+{
+	height: 22px;
+	width: 70px;
+	margin-right: -10000px;
+}
+
+#menuu3403
+{
+	z-index: 70;
+	width: 68px;
+	margin-right: -10000px;
+	margin-top: 77px;
+	left: 299px;
+}
+
+#u3130,#u2716,#u3033,#u3420
+{
+	width: 68px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u3131,#u2717,#u3034,#u3421
+{
+	width: 68px;
+}
+
+#u3134,#u2718,#u3037,#u3422
+{
+	height: 22px;
+	width: 68px;
+	margin-right: -10000px;
+}
+
+#pu3427-4
+{
+	width: 0.01px;
+	margin-left: 8px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u3427-4
+{
+	z-index: 76;
+	width: 296px;
+	min-height: 8px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+}
+
+#u2648-3
+{
+	z-index: 17;
+	width: 5px;
+	margin-right: -10000px;
+	left: 468px;
+}
+
+#pu3153-3
+{
+	width: 0.01px;
+	margin-top: 32px;
+	position: relative;
+}
+
+#u3153-3
+{
+	z-index: 60;
+	width: 5px;
+	margin-right: -10000px;
+	margin-top: 277px;
+}
+
+#u3428-5
+{
+	z-index: 80;
+	width: 177px;
+	min-height: 173px;
+	position: relative;
+	margin-right: -10000px;
+	left: 13px;
+}
+
+#u3429
+{
+	z-index: 85;
+	width: 174px;
+	height: 148px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	left: 194px;
+	background: #FFFFFF url("../images/veterinario-3-u3429-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3436-5
+{
+	z-index: 86;
+	width: 152px;
+	min-height: 158px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 167px;
+	left: 217px;
+}
+
+#u3437
+{
+	z-index: 91;
+	width: 197px;
+	height: 156px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 164px;
+	left: 13px;
+	background: #FFFFFF url("../images/comiendo-u3437-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3444-5
+{
+	z-index: 92;
+	width: 356px;
+	min-height: 12px;
+	margin-left: 13px;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u3445-5
+{
+	z-index: 97;
+	width: 356px;
+	min-height: 75px;
+	margin-left: 13px;
+	position: relative;
+}
+
+#pu3446
+{
+	width: 0.01px;
+	margin-left: 13px;
+	top: -7px;
+	margin-bottom: -7px;
+	position: relative;
+}
+
+#u3446
+{
+	z-index: 102;
+	width: 157px;
+	height: 129px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/ccalle-u3446-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3453
+{
+	z-index: 103;
+	width: 157px;
+	height: 129px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 189px;
+	background: #FFFFFF url("../images/vacuna-u3453-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3460-5
+{
+	z-index: 104;
+	width: 347px;
+	min-height: 106px;
+	margin-left: 13px;
+	margin-top: 36px;
+	position: relative;
+}
+
+#u3428-2,#u3436-2,#u3444-2,#u3445-2,#u3460-2
+{
+	text-align: justify;
+	color: #7F7F7F;
+}
+
+#u2755-4
+{
+	z-index: 38;
+	width: 367px;
+	min-height: 29px;
+	margin-left: 7px;
+	margin-top: 47px;
+}
+
+#u3155
+{
+	z-index: 63;
+	width: 380px;
+	height: 47px;
+	margin-top: 4px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

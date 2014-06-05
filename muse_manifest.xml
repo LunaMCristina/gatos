@@ -1,0 +1,96 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="205027949"/>
+    <file name="master_page-master.css" crc="287918382" ref="gatas:index:beneficios:mitos:razas:higiene:salud:comportamiento:el-bano"/>
+    <file name="gatas.css" crc="365227257" ref="gatas"/>
+    <file name="iefonts_gatas.css" crc="4285682399" ref="gatas"/>
+    <file name="index.css" crc="233367933" ref="index"/>
+    <file name="iefonts_index.css" crc="3839951648" ref="index"/>
+    <file name="beneficios.css" crc="396268241" ref="beneficios"/>
+    <file name="iefonts_beneficios.css" crc="4285682399" ref="beneficios"/>
+    <file name="mitos.css" crc="4247480523" ref="mitos"/>
+    <file name="iefonts_mitos.css" crc="4285682399" ref="mitos"/>
+    <file name="razas.css" crc="89870591" ref="razas"/>
+    <file name="iefonts_razas.css" crc="51140719" ref="razas"/>
+    <file name="higiene.css" crc="427400348" ref="higiene"/>
+    <file name="iefonts_higiene.css" crc="4285682399" ref="higiene"/>
+    <file name="salud.css" crc="484538029" ref="salud"/>
+    <file name="iefonts_salud.css" crc="4008583048" ref="salud"/>
+    <file name="comportamiento.css" crc="176991956" ref="comportamiento"/>
+    <file name="iefonts_comportamiento.css" crc="136021430" ref="comportamiento"/>
+    <file name="el-bano.css" crc="3929412661" ref="el-bano"/>
+    <file name="iefonts_el-bano.css" crc="4285682399" ref="el-bano"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="museutils.js" crc="4291592202" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:razas:salud:comportamiento:beneficios:gatas:el-bano:higiene"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u2645.png" crc="4185785067" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u2645-a.png" crc="4185785067" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u2652.png" crc="3873422498" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u2652-a.png" crc="3873422498" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u3134.png" crc="147303436" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u3134-a.png" crc="147303436" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u2623-4.png" crc="4253404782" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u2698.png" crc="485086929" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u2698-a.png" crc="485086929" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u2718.png" crc="95948695" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u2718-a.png" crc="95948695" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u3037.png" crc="337103012" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u3037-a.png" crc="337103012" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u3110.png" crc="79107201" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u3110-a.png" crc="79107201" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u3365.png" crc="361542570" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u3365-a.png" crc="361542570" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u3422.png" crc="4274588179" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="u3422-a.png" crc="4274588179" ref="index:razas:salud:comportamiento:beneficios:mitos:gatas:el-bano:higiene"/>
+    <file name="home_2-u3168-fr.jpg" crc="25961641" ref="index"/>
+    <file name="dsc00014-u3175-fr.jpg" crc="4217217045" ref="index"/>
+    <file name="gato-silvestre-bosque-noruega-u3200-fr.jpg" crc="460956491" ref="razas"/>
+    <file name="raza-gato-absinio-u3214-fr.jpg" crc="451248279" ref="razas"/>
+    <file name="gatos-american-curl-u3213-fr.jpg" crc="13210433" ref="razas"/>
+    <file name="gatos-american-shorthair-u3212-fr.jpg" crc="8237610" ref="razas"/>
+    <file name="razas-gatos-azul-ruso-u3211-fr.jpg" crc="133025926" ref="razas"/>
+    <file name="gatos-balineses-u3210-fr.jpg" crc="490302113" ref="razas"/>
+    <file name="gatos-bengalies-u3209-fr.jpg" crc="3773942238" ref="razas"/>
+    <file name="gatos-bobtail-japones-u3208-fr.jpg" crc="48152677" ref="razas"/>
+    <file name="gatos-bombay-u3215-fr.jpg" crc="3922593078" ref="razas"/>
+    <file name="raza-gatos-british-shorthair-u3227-fr.jpg" crc="373610097" ref="razas"/>
+    <file name="raza-gatos-burmilla-u3226-fr.jpg" crc="490967333" ref="razas"/>
+    <file name="raza-gatos-california-spangled-u3225-fr.jpg" crc="525648755" ref="razas"/>
+    <file name="raza-gatos-chartreux-u3224-fr.jpg" crc="80919641" ref="razas"/>
+    <file name="gato-comun-europeo-u3223-fr.jpg" crc="120452021" ref="razas"/>
+    <file name="gatos-cornish-rex-u3222-fr.jpg" crc="141610807" ref="razas"/>
+    <file name="raza-gatos-cymric-u3221-fr.jpg" crc="362304132" ref="razas"/>
+    <file name="catdoctorresample92185459_std-u3390-fr.jpg" crc="4160079152" ref="salud"/>
+    <file name="lenguaje-cola-gatos-1-u3564-fr.png" crc="4170203564" ref="comportamiento"/>
+    <file name="281212-1722-u3605-fr.jpg" crc="3971415614" ref="beneficios"/>
+    <file name="dsc00073-u3622-fr.jpg" crc="95693581" ref="beneficios"/>
+    <file name="dsc_0026-u3629-fr.jpg" crc="81990925" ref="beneficios"/>
+    <file name="020113-2000-u3637-fr.jpg" crc="4276388030" ref="beneficios"/>
+    <file name="020113-1346-u3644-fr.jpg" crc="3968318855" ref="beneficios"/>
+    <file name="celo-u3465-fr.jpg" crc="304886182" ref="gatas"/>
+    <file name="dsc00006-u3550-fr.jpg" crc="411706259" ref="gatas"/>
+    <file name="baño-u3574-fr.jpg" crc="153639662" ref="el-bano"/>
+    <file name="banar-gato-1200x800-668x400x80xx-u3593-fr.jpg" crc="173332151" ref="el-bano"/>
+    <file name="veterinario-3-u3429-fr.jpg" crc="56134366" ref="higiene"/>
+    <file name="comiendo-u3437-fr.jpg" crc="3898068328" ref="higiene"/>
+    <file name="ccalle-u3446-fr.jpg" crc="3891347304" ref="higiene"/>
+    <file name="vacuna-u3453-fr.jpg" crc="297497450" ref="higiene"/>
+  </folder>
+  <file name="index.html" crc="415631442" mt="1401999333861" redirect="true"/>
+  <file name="razas.html" crc="3885797902" mt="1401999333874" redirect="true"/>
+  <file name="salud.html" crc="96304986" mt="1401999333889" redirect="true"/>
+  <file name="comportamiento.html" crc="4198834468" mt="1401999333899" redirect="true"/>
+  <file name="beneficios.html" crc="374149784" mt="1401999333914" redirect="true"/>
+  <file name="mitos.html" crc="4051772902" mt="1401999333927" redirect="true"/>
+  <file name="gatas.html" crc="506329976" mt="1401999333940" redirect="true"/>
+  <file name="el-bano.html" crc="279390278" mt="1401999333951" redirect="true"/>
+  <file name="higiene.html" crc="4113370091" mt="1401999333964" redirect="true"/>
+</manifest>
